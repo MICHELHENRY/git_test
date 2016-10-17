@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <llrp:ADD_ROSPEC xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="4">
   <llrp:ROSpec>
-    <llrp:ROSpecID>7</llrp:ROSpecID>poi-oipoipoipo
+    <llrp:ROSpecID>77</llrp:ROSpecID>poi-oipoipoipo
     <llrp:Priority>0</llrp:Priority>
     <llrp:CurrentState>Disabled</llrp:CurrentState>
     <llrp:ROBoundarySpec>
@@ -117,4 +117,7 @@
       </llrp:TagReportContentSelector>
     </llrp:ROReportSpec>
   </llrp:ROSpec>
+  <teste>
+	<legal>OK</legal>
+  </teste>
 </llrp:ADD_ROSPEC>
